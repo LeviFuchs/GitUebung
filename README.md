@@ -33,5 +33,4 @@ Aufgabe C
 
 
 
-
 **Review** **Noah Burren** **30.11.23**
