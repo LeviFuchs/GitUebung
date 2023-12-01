@@ -30,6 +30,13 @@ git branch <branch-name>
 git push origin <branch>
 Aufgabe C
 
+=======
+[Weitere Links](branches.md)
+>>>>>>> e297f0da8fc9c64b0b9bf23ab58be8d8f4466531
+
+
+<<<<<<< HEAD
+
 
 
 
